@@ -25,7 +25,7 @@ Currently solving problems in:
   - Python
   - DSA
   - Javascript
-(More languages may be added in the future.)
+  - (More languages may be added in the future.)
 
 🎯 Goal:
   My goal is not just to solve problems but to understand the underlying concepts and write efficient, maintainable solutions.
